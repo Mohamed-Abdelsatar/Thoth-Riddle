@@ -6,6 +6,7 @@ Project Has A Significant Amount Of Technically Interesting Work. </h4>
 <h2>Game Description : </h2>
 <p> - Choose A Character As Thoth That Running in Desert, Collecting Coins and Survive Your Life</p>
 <p> - But You'll Die If You Hit The Stones </p>
+<p> - Difficulty Level Increases Each Collecting 30 Point </p>
 <hr>
 <h2>Game Properties : </h2>
 <p>&nbsp;&nbsp;&nbsp; 1 - Using Ancient Art Style For Selection The Assets ( Character, Font, Stones, Ground and Shapes )</p>
