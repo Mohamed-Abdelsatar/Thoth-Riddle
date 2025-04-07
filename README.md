@@ -9,11 +9,11 @@ Project Has A Significant Amount Of Technically Interesting Work. </h4>
 <p> - Difficulty Level Increases Each Collecting 30 Point </p>
 <hr>
 <h2>Game Properties : </h2>
-<p>&nbsp;&nbsp;&nbsp; 1 - Using Ancient Art Style For Selection The Assets ( Character, Font, Stones, Ground and Shapes )</p>
-<p>&nbsp;&nbsp;&nbsp; 2 - Suitable Sound System ( Intro Music, Gameplay Music and Crash Sound )</p>
-<p>&nbsp;&nbsp;&nbsp; 3 - Score Counter</p>
-<p>&nbsp;&nbsp;&nbsp; 4 - Distance Counter</p>
-<p>&nbsp;&nbsp;&nbsp; 5 - Control Buttons ( Play, Play Again, Menu and Exit )</p>
+<p>&nbsp;&nbsp;&nbsp; 1. Using Ancient Art Style For Selection The Assets ( Character, Font, Stones, Ground and Shapes )</p>
+<p>&nbsp;&nbsp;&nbsp; 2. Suitable Sound System ( Intro Music, Gameplay Music and Crash Sound )</p>
+<p>&nbsp;&nbsp;&nbsp; 3. Score Counter</p>
+<p>&nbsp;&nbsp;&nbsp; 4. Distance Counter</p>
+<p>&nbsp;&nbsp;&nbsp; 5. Control Buttons ( Play, Play Again, Menu and Exit )</p>
 
 <hr>
 <h2>Extra Work</h2>
